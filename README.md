@@ -1,3 +1,7 @@
+# This is a React Dashboard - Created by following the tutorial by JS Master YT
+React projecct for practice
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
